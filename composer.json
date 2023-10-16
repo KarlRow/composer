@@ -1,0 +1,16 @@
+{
+    "name": "wild/app",
+    "description": "\"Wild composer quest\"",
+    "autoload": {
+        "psr-4": {
+            "Wild\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eddy Joncoux",
+            "email": "eddy.joncoux@gmail.com"
+        }
+    ],
+    "require": {}
+}
