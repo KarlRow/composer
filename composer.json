@@ -12,5 +12,8 @@
             "email": "eddy.joncoux@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/mailer": "^6.3",
+        "gipetto/cowsay": "^1.2"
+    }
 }
